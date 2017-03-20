@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="trans_text_content" format="string" />
+    <attr name="trans_text_size" format="dimension" />
+    <attr name="trans_view_bg_color" format="color" />
+    <attr name="trans_bg_round_size" format="dimension" />
+    <declare-styleable name="TransparentTextView">
+        <attr name="trans_text_content" />
+        <attr name="trans_text_size" />
+        <attr name="trans_view_bg_color" />
+        <attr name="trans_bg_round_size" />
+    </declare-styleable>
+
+</resources>
